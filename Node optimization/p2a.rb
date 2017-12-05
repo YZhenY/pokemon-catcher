@@ -1,4 +1,3 @@
-# Team ID: G1-T06
 
 # project 2a
 
