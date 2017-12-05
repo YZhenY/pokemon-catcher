@@ -18,6 +18,7 @@ Output.
 •	Your algorithm is expected to make recommendations as to where the stops should be placed on the map, and return the coordinates of these cells. The “quality” of your recommended stops will be scored (details about scoring later).
 
 Algorithm:
+
 arguments: 
   pop_map: a 2D array of integers, representing the population density at each cell
             e.g. for map0, pop_map will be:
