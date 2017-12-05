@@ -18,6 +18,7 @@ Output.
 •	Your algorithm is expected to make recommendations as to where the stops should be placed on the map, and return the coordinates of these cells. The “quality” of your recommended stops will be scored (details about scoring later).
 
 Algorithm:
+
 arguments: 
   pop_map: a 2D array of integers, representing the population density at each cell
             e.g. for map0, pop_map will be:
@@ -45,7 +46,8 @@ Total cost = 	(i) cost of distance to each stop for the entire population +
 (i) will be calculated in the same way as optimal allocation (in the same unit dollar currency as cost_map).
 
 Algorithm:
- arguments: 
+
+arguments: 
    pop_map: a 2D array of integers, representing the population density at each cell
             e.g. for map0, pop_map will be:
                  [[2,5,5,1,3], [8,4,4,0,2], [1,5,2,0,6]]
@@ -76,7 +78,8 @@ You will be given the following information:
 (v)	end time; the time available for the current player for this route. 
 
 Algorithm:
- arguments: 
+
+arguments: 
    curr_pos : 1D array of integers. Current player's position [y, x]
    end_time : integer. Time that player must get back to curr_pos by
    pmap     : 2D array of integers. The Combat Points (CP) of the Pokemons at each position is in this array. A value of -1 means that there is no Pokemon there.
