@@ -1,7 +1,7 @@
 # pokemon-catcher
 A repository displaying solutions to problems presented with a pokemon theme; Optimal allocation, Node optimization and a Dynamic traveling salesman.
 Each problem has a "main" and "utility" file run to test each algorithm, the last file named p1, p2a or p2b is where the algorithm (coded from scratch) resides.
-Below is a description of each of the problems and algorithms. Further more detailed explainations of the algorithms can be found in the write-ups located in each of the respective files.
+Below is a description of each of the problems and algorithms. Further more detailed explainations of the algorithms can be found in the write-ups of the respective files.
 
 
 # Optimal Allocation: Where should we put the Pokestops? 
